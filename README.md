@@ -7,3 +7,4 @@ Over the coming year, CIRA Labs will be working with a cross-disciplinary team o
 
 CIRA is presenting the 5G IoT Registy prototype at the GSMA MWC19 Los Angeles congress (https://www.mwclosangeles.com/).  This repo includes CIRA Labs' powerpoint demonstration slides.
 
+![CIRA Secure all the things](/images/iot-sticker_191010.jpg)
