@@ -7,4 +7,6 @@ Over the coming year, CIRA Labs will be working with a cross-disciplinary team o
 
 CIRA is presented the Secure IoT Registry prototype at the GSMA MWC19 Los Angeles congress (https://www.mwclosangeles.com/).  This repo includes CIRA Labs' Powerpoint demonstration slides and prototype screenshots.
 
+You can find more information at https://cira.ca/iot
+
 ![CIRA Secure all the things](/images/iot-sticker_191010.jpg)
