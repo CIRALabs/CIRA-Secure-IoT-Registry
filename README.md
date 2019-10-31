@@ -13,7 +13,7 @@ We developed a functional prototype using the L-SPARK Secure IoT Dev Kit.
 
 L-SPARK has a program to write certificated directly on the eSIM TELUS Service Profile. 
 
-![L-SPARK Secure IoT DEv Kit](/images/eSIM.jpg)
+![L-SPARK Secure IoT DEv Kit](images/eSIM.JPG)
 
 And of course we have a cool sticker :-)
 
