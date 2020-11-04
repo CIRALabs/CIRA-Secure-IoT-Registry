@@ -1,30 +1,21 @@
-# CIRA-Secure-IoT-Registry
-CIRA's Secure IoT Registry Project Information
+# CIRA-Secure-IoT-Registry Project
 
-The CIRA Labs team recently joined L-SPARK Global’s Secure IoT Accelerator program (https://www.l-spark.com/accelerator/secureiot/) to help solve a massive, industry-wide problem: securing 5G internet of things (IoT) devices.
+CIRA Secure IoT Registry enables Zero Touch registration, activation and transfer of eSIM based IoT Devices. We are leverating the eSIM as the hardware Root of Trust in an IoT devicthe based on the IoT SAFE standard from GSMA (https://www.gsma.com/iot/iot-safe/). This repo includes CIRA Labs' Powerpoint demonstration slides and prototype screenshots.
 
-Over the coming year, CIRA Labs will be working with a cross-disciplinary team of experts, technologists and advisors to develop a cutting edge Secure IoT Registry – an innovative framework to securely provision 5G and mobile IoT devices.
+We have developed a functional POC using a Dev Kit that contains
+* a Thales eSIM
+* Cinterion Modem
+* Raspberry Pi 3
 
-CIRA is presented the Secure IoT Registry prototype at the GSMA MWC19 Los Angeles congress (https://www.mwclosangeles.com/).  This repo includes CIRA Labs' Powerpoint demonstration slides and prototype screenshots.
+![POC Dev Kit](/images/POC DevKit.PNG)
 
-In addition, we recently presented the concept to Canadian Government CCCS, at ICANN66 in Montreal at ccNSO meeting, at the Kanata CENGN summit.
+The CIRA Labs team is currently participating in the TELUS L-SPARK Medtech Accelerator (https://www.l-spark.com/accelerator/secureiot/) to provide a technology platform for medical device innovators. 
 
-We developed a functional prototype using the L-SPARK Secure IoT Dev Kit. 
-
-![L-SPARK Secure IoT DEv Kit](/images/LSPARKDEVKIT.jpg)
-
-L-SPARK has developed a script/program to write certificates (CERTs) directly on the eSIM TELUS Service Profile. We are leveraging this functionality for IoT application service provider provisioning. 
-
-![L-SPARK Secure IoT DEv Kit](images/eSIM.JPG)
-
-
+CIRA has presented the Secure IoT Registry in Oct. at ICANN 69 (https://meetings.icann.org/en/remote69).  
 
 And of course we have a cool sticker :-)
 
-
-
 ![CIRA Secure all the things](/images/iot-sticker_191010.jpg)
-
 
 
 You can find more information at https://cira.ca/iot
