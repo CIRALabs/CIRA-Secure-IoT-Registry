@@ -1,6 +1,6 @@
 # CIRA-Secure-IoT-Registry Project
 
-CIRA Secure IoT Registry enables Zero Touch registration, activation and transfer of eSIM based IoT Devices. We are leverating the eSIM as the hardware Root of Trust in an IoT devicthe based on the IoT SAFE standard from GSMA (https://www.gsma.com/iot/iot-safe/). This repo includes CIRA Labs' Powerpoint demonstration slides and prototype screenshots.
+CIRA Secure IoT Registry enables Zero Touch registration, activation and transfer of eSIM based IoT Devices. We are leveraging the eSIM as the hardware Root of Trust in an IoT devicthe based on the IoT SAFE standard from GSMA (https://www.gsma.com/iot/iot-safe/). This repo includes CIRA Labs' Powerpoint demonstration slides and prototype screenshots.
 
 We have developed a functional POC using a Dev Kit that contains
 * a Thales eSIM
