@@ -1,6 +1,6 @@
 # CIRA-Secure-IoT-Registry Project
 This repo includes CIRA Labs' Powerpoint slides, prototype screenshots and general project updates.
-![IOT Registry Logo](/images/IoT_Registry_logo.PNG)\
+![IOT Registry Logo](/images/IoT_Registry_logo.PNG)
 
 
 ## **What is CIRA Secure IoT Registry?
@@ -8,7 +8,7 @@ The CIRA Secure IoT Registry enables Zero Touch registration, activation and tra
 
 
 ## **L Spark Medtech Accelerator
-The CIRA Labs team is currently participating in the TELUS L-SPARK Medtech Accelerator (https://www.l-spark.com/accelerator/secureiot/) to provide a technology platform for medical device innovators. 
+The CIRA Labs team is currently participating in the [TELUS L-SPARK Medtech Accelerator](https://www.l-spark.com/accelerator/secureiot/) to provide a technology platform for medical device innovators. 
 ![POC Dev Kit](/images/POC_DevKit.PNG)
 We are using a dev kit that has a Telus eSIM, Quectel BG96 Modem and a Raspberry Pi 4. The middleware code is here based on a [golang wrapper](https://github.com/CIRALabs/iot-safe-middleware)
 
@@ -18,7 +18,7 @@ A Dev Kit containing a Telus eSIM, Cinterion Modem and Raspberry Pi 3 was used f
 ![POC Dev Kit](/images/POC_DevKit.PNG)
 
 ## **Secure IoT Accelerator Program
-We participated in this accelerator and developed our ParkOServe [Demo](https://github.com/TELUS-Emerging-IoT/Secure-IoT-Accelerator)
+We participated in the LSpark Secure IoT Accelerator accelerator and developed our ParkOServe [Demo](https://github.com/TELUS-Emerging-IoT/Secure-IoT-Accelerator)
 
 ## **Events
 CIRA has presented the Secure IoT Registry in Oct. at [ICANN 69](https://meetings.icann.org/en/remote69).
