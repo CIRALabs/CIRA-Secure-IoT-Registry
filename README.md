@@ -13,7 +13,7 @@ The CIRA Secure IoT Registry enables Zero Touch registration, activation and tra
 ## **L Spark Medtech Accelerator
 CIRA Labs has partnered with Telus, Solace and Blackberry to provide a technology platform the for medical device innovators in the [TELUS L-SPARK Medtech Accelerator](https://www.l-spark.com/accelerator/secureiot/). We are using a dev kit that has a Raspberry Pi 4, Thales eSIM, Quectel and Telus BG96 Modem. The middleware code is here based on a [golang wrapper](https://github.com/CIRALabs/iot-safe-middleware)
 
-![POC Dev Kit](/images/LSpark%202%20Dev%20Kit.PNG)
+![MedTech Accelerator Dev Kit](/images/LSpark%20Phase%202%20Dev%20Kit.PNG)
 
 
 ## **Telus and Thales POC
@@ -25,7 +25,8 @@ A Dev Kit containing a Raspberry Pi 3, Thales eSIM, Cinterion and Telus BG96 Mod
 ## **Secure IoT Accelerator Program
 We participated in the LSpark Secure IoT Accelerator accelerator and developed our ParkOServe [Demo](https://github.com/TELUS-Emerging-IoT/Secure-IoT-Accelerator). We used aDev Kit that had a Raspberry Pi 3, G&D eSIM, Quectel and Telus BG96 Modem. 
 
-![LSpark 1 IoT Acclerator](/images/LSpark%201%20Dev%20Kit.PNG)
+
+![Secure IoT Accelerator Dev Kit](/images/LSPARKDEVKIT.jpg)
 
 ## **Events
 CIRA has presented the Secure IoT Registry in Oct. at [ICANN 69](https://meetings.icann.org/en/remote69).
