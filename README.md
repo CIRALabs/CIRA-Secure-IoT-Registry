@@ -7,7 +7,7 @@ This repo includes CIRA Labs' Powerpoint slides, prototype screenshots and gener
 
 ![IOT Registry Logo](/images/IoT%20Registry%20logo.png)
 
-The CIRA Secure IoT Registry enables Zero Touch registration, activation and transfer of eSIM based IoT Devices. It leverages the eSIM as the hardware Root of Trust in an IoT device and is based on the IoT SAFE standard from [GSMA](https://www.gsma.com/iot/iot-safe/). Check out our Labs page for mere details on [this project.](https://cira.ca/iot) 
+The CIRA Secure IoT Registry enables Zero Touch Device Identity Management of IoT devices. It leverages the eSIM as the hardware Root of Trust in an IoT device and is based on the IoT SAFE standard from [GSMA](https://www.gsma.com/iot/iot-safe/). Check out our Labs page for more details on [this project.](https://cira.ca/iot). Connect with us if you are interested in knowing more about this project or partnering with us.  
 
 
 ## **L Spark Medtech Accelerator
