@@ -22,29 +22,29 @@ A Dev Kit containing a Raspberry Pi 3, Thales eSIM, Cinterion and Telus BG96 Mod
 
 ![POC Dev Kit](/images/POC%20Dev%20Kit.png)
 
-## **Secure IoT Accelerator Program
-We participated in the LSpark Secure IoT Accelerator accelerator and developed our ParkOServe [Demo](https://github.com/TELUS-Emerging-IoT/Secure-IoT-Accelerator). We used aDev Kit that had a Raspberry Pi 3, G&D eSIM, Quectel and Telus BG96 Modem. 
+## **Secure IoT Accelerator Program  
+We participated in the LSpark Secure IoT Accelerator accelerator and developed our ParkOServe [Demo](https://github.com/TELUS-Emerging-IoT/Secure-IoT-Accelerator). We used aDev Kit that had a Raspberry Pi 3, G&D eSIM, Quectel and Telus BG96 Modem.   
 
 
 ![Secure IoT Accelerator Dev Kit](/images/LSPARKDEVKIT.jpg)
 
-## **Events
-CIRA has presented the Secure IoT Registry at these events
-*Jan. 2021 at [Current State of ICS and ICS Security] (https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ndstrl-cntrl-sstms/vnts-en.aspx)
-*Nov. 2020 [ISOC Digital Access Day] (https://internetsociety.ca/event/3rd-annual-digital-access-day/?event_date=2020-11-12)
-*Oct. 2020 at [ICANN 69](https://meetings.icann.org/en/remote69)
+## **Events  
+CIRA has presented the Secure IoT Registry at these events  
+*Jan. 2021 at [Current State of ICS and ICS Security] (https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ndstrl-cntrl-sstms/vnts-en.aspx)  
+*Nov. 2020 [ISOC Digital Access Day] (https://internetsociety.ca/event/3rd-annual-digital-access-day/?event_date=2020-11-12)  
+*Oct. 2020 at [ICANN 69](https://meetings.icann.org/en/remote69)  
 
-## **Publications
-CIRA publications online
-*Jan. 2021 [CIRA Blog] (https://www.cira.ca/blog/state-internet/putting-ciras-secure-iot-registry-work-l-sparks-medtech-accelerator)
-*Dec. 2020 [CircleID] (http://www.circleid.com/posts/20201204-innovative-framework-to-help-iot-industry-scale-into-billions/)
+## **Publications  
+CIRA publications online  
+*Jan. 2021 [CIRA Blog] (https://www.cira.ca/blog/state-internet/putting-ciras-secure-iot-registry-work-l-sparks-medtech-accelerator)  
+*Dec. 2020 [CircleID] (http://www.circleid.com/posts/20201204-innovative-framework-to-help-iot-industry-scale-into-billions/)  
 
-## **Press Releases
-Press Releases related to the IoT Registry Project
-*Dec. 2020 [LSpark] (https://www.l-spark.com/medtech-the-future-of-healthcare-is-here/)
-*Jul. 2020 [LSpark] (https://betakit.com/l-spark-launches-new-accelerator-program-for-connected-medical-device-ventures/)
+## **Press Releases  
+Press Releases related to the IoT Registry Project  
+*Dec. 2020 [LSpark] (https://www.l-spark.com/medtech-the-future-of-healthcare-is-here/)  
+*Jul. 2020 [LSpark] (https://betakit.com/l-spark-launches-new-accelerator-program-for-connected-medical-device-ventures/)  
 
-## **Fun Stuff
+## **Fun Stuff  
 
 ![CIRA Secure all the things](/images/iot-sticker_191010.jpg)
 
