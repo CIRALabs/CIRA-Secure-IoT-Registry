@@ -17,7 +17,8 @@ CIRA Labs has partnered with Telus, Solace and Blackberry to provide a technolog
 
 
 ## **Telus and Thales POC
-We have developed a functional POC by partnering with Telus and Thales. We built upon the [Thales middleware code](https://github.com/ThalesGroup/iot-safe-middleware)
+We have developed a functional POC by partnering with Telus and Thales, more info. in the [Case Study] (https://www.thalesgroup.com/en/markets/digital-identity-and-security/mobile/secure-elements/gsma-iot-safe-specifications). 
+We built upon the [Thales middleware code](https://github.com/ThalesGroup/iot-safe-middleware)
 A Dev Kit containing a Raspberry Pi 3, Thales eSIM, Cinterion and Telus BG96 Modem was used for this POC. 
 
 ![POC Dev Kit](/images/POC%20Dev%20Kit.png)
@@ -30,6 +31,7 @@ We participated in the LSpark Secure IoT Accelerator accelerator and developed o
 
 ## **Events  
 CIRA has presented the Secure IoT Registry at these events  
+* March 2021 at CIRA Member Event - [Debunking IoT Myths] (https://www.youtube.com/watch?v=D1vdVLI1H6c)
 *Jan. 2021 at [Current State of ICS and ICS Security] (https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ndstrl-cntrl-sstms/vnts-en.aspx)  
 *Nov. 2020 [ISOC Digital Access Day] (https://internetsociety.ca/event/3rd-annual-digital-access-day/?event_date=2020-11-12)  
 *Oct. 2020 at [ICANN 69](https://meetings.icann.org/en/remote69)  
