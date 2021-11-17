@@ -30,10 +30,10 @@ We participated in the LSpark Secure IoT Accelerator accelerator and developed o
 ![Secure IoT Accelerator Dev Kit](/images/LSPARKDEVKIT.jpg)
 
 ## **Events  
-CIRA has presented the Secure IoT Registry at these events 
-*Nov. 9th at CENGN Summit -[Digital Identity Innovation for IoT Devices] (https://pheedloop.com/2021CENGNSUMMIT/virtual/?page=sessions&section=SESUV7V6PRCCE50GP)
-*Oct. 27th at ICANN72 - [Zero-Touch Universal IoT Device Identity] (https://72.schedule.icann.org/meetings/M24SJN375N2rcupnS)
-*Sept. 8th at Canada East Virtual Cibersecurity Summit -[Digital Device Identity Management for IoT Devices] (https://dataconnectors.com/events/2021/september/canada-east/)
+CIRA has presented the Secure IoT Registry at these event  
+*Nov. 9th at CENGN Summit -[Digital Identity Innovation for IoT Devices] (https://pheedloop.com/2021CENGNSUMMIT/virtual/?page=sessions&section=SESUV7V6PRCCE50GP)  
+*Oct. 27th at ICANN72 - [Zero-Touch Universal IoT Device Identity] (https://72.schedule.icann.org/meetings/M24SJN375N2rcupnS)  
+*Sept. 8th at Canada East Virtual Cibersecurity Summit -[Digital Device Identity Management for IoT Devices] (https://dataconnectors.com/events/2021/september/canada-east/)  
 *June 14th 2021 at ICANN 71 - [Challenges in DNSSEC IoT Registry] (https://meetings.icann.org/en/remote71)  
 *May 20th 2021 at RIPE 82 - [Implementation of IoT SAFE using a Registry] (https://ripe82.ripe.net/archives/video/598/)  
 *May 18th at Cybersecurity Meetup - [May 13th 2021 at Canada West Virtual Cybersecurity Summit - [Keeping IoT Devices Secure] (https://dataconnectors.com/events/2021/may/canada-west/)  
