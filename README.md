@@ -30,15 +30,18 @@ We participated in the LSpark Secure IoT Accelerator accelerator and developed o
 ![Secure IoT Accelerator Dev Kit](/images/LSPARKDEVKIT.jpg)
 
 ## **Events  
-CIRA has presented the Secure IoT Registry at these events  
-*June 2021 at ICANN 71 - [Challenges in DNSSEC IoT Registry] (https://meetings.icann.org/en/remote71)  
-*May 2021 at RIPE 82 - [Implementation of IoT SAFE using a Registry] (https://ripe82.ripe.net/archives/video/598/)  
-*May 2021 at Canada West Virtual Cybersecurity Summit - [Keeping IoT Devices Secure] (https://dataconnectors.com/events/2021/may/canada-west/)  
-*May 2021 ThinkFest 3.0 - [How to stop your IoT Devices for joining a Gang] (http://praxiem.com/iotnorth-thingkfest-3-0/)  
+CIRA has presented the Secure IoT Registry at these events 
+*Nov. 9th at CENGN Summit -[Digital Identity Innovation for IoT Devices] (https://pheedloop.com/2021CENGNSUMMIT/virtual/?page=sessions&section=SESUV7V6PRCCE50GP)
+*Oct. 27th at ICANN72 - [Zero-Touch Universal IoT Device Identity] (https://72.schedule.icann.org/meetings/M24SJN375N2rcupnS)
+*Sept. 8th at Canada East Virtual Cibersecurity Summit -[Digital Device Identity Management for IoT Devices] (https://dataconnectors.com/events/2021/september/canada-east/)
+*June 14th 2021 at ICANN 71 - [Challenges in DNSSEC IoT Registry] (https://meetings.icann.org/en/remote71)  
+*May 20th 2021 at RIPE 82 - [Implementation of IoT SAFE using a Registry] (https://ripe82.ripe.net/archives/video/598/)  
+*May 18th at Cybersecurity Meetup - [May 13th 2021 at Canada West Virtual Cybersecurity Summit - [Keeping IoT Devices Secure] (https://dataconnectors.com/events/2021/may/canada-west/)  
+*May 13th 2021 ThinkFest 3.0 - [How to stop your IoT Devices for joining a Gang] (http://praxiem.com/iotnorth-thingkfest-3-0/)  
 *March 2021 at CIRA Member Event - [Debunking IoT Myths] (https://www.youtube.com/watch?v=D1vdVLI1H6c)  
-*January 2021 at [Current State of ICS and ICS Security] (https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ndstrl-cntrl-sstms/vnts-en.aspx)  
-*November 2020 [ISOC Digital Access Day] (https://internetsociety.ca/event/3rd-annual-digital-access-day/?event_date=2020-11-12)  
-*October 2020 at ICANN 69 - [CIRA’s IoT Registry Remote eSIM Provisioning] (https://meetings.icann.org/en/remote69)  
+*January 26th 2021 at [Current State of ICS and ICS Security] (https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/ndstrl-cntrl-sstms/vnts-en.aspx)  
+*November 13th 2020 [ISOC Digital Access Day] (https://internetsociety.ca/event/3rd-annual-digital-access-day/?event_date=2020-11-12)  
+*October 19th 2020 at ICANN 69 - [CIRA’s IoT Registry Remote eSIM Provisioning] (https://69.schedule.icann.org/meetings/sMAzQxxMpvoRQckC2)  
 
 ## **Publications  
 CIRA publications online  
