@@ -7,7 +7,7 @@ This repo includes CIRA Labs' Powerpoint slides, prototype screenshots and gener
 
 ![IOT Registry Logo](/images/IoT%20Registry%20logo.png)
 
-The CIRA Secure IoT Registry enables Zero Touch Device Identity Management of IoT devices. It leverages the eSIM as the hardware Root of Trust in an IoT device and is based on the IoT SAFE standard from [GSMA](https://www.gsma.com/iot/iot-safe/). Check out our Labs page for more details on [this project.](https://cira.ca/iot). Connect with us if you are interested in knowing more about this project or partnering with us.  
+The CIRA Secure IoT Registry enables Zero Touch Device Identity Management of IoT devices. It leverages the eSIM as the hardware Root of Trust in an IoT device and is based on the IoT SAFE standard from [GSMA](https://www.gsma.com/iot/iot-safe/). Check out our Labs page for more details on [this project.](https://cira.ca/iot) and our [datasheet](https://static.cira.ca/2021-07/labs-data-sheet_210719.pdf). Connect with us if you are interested in knowing more about this project or partnering with us.  
 
 
 ## **L Spark Medtech Accelerator
@@ -31,9 +31,9 @@ We participated in the LSpark Secure IoT Accelerator accelerator and developed o
 
 ## **Events  
 CIRA has presented the Secure IoT Registry at these event  
-*Nov. 9th at CENGN Summit -[Digital Identity Innovation for IoT Devices](https://pheedloop.com/2021CENGNSUMMIT/virtual/?page=sessions&section=SESUV7V6PRCCE50GP)  
-*Oct. 27th at ICANN72 - [Zero-Touch Universal IoT Device Identity](https://72.schedule.icann.org/meetings/M24SJN375N2rcupnS)  
-*Sept. 8th at Canada East Virtual Cibersecurity Summit - [Digital Device Identity Management for IoT Devices](https://dataconnectors.com/events/2021/september/canada-east/)  
+*Nov. 9th 2021 at CENGN Summit -[Digital Identity Innovation for IoT Devices](https://pheedloop.com/2021CENGNSUMMIT/virtual/?page=sessions&section=SESUV7V6PRCCE50GP)  
+*Oct. 27th 2021 at ICANN72 - [Zero-Touch Universal IoT Device Identity](https://72.schedule.icann.org/meetings/M24SJN375N2rcupnS)  
+*Sept. 8th 2021 at Canada East Virtual Cibersecurity Summit - [Digital Device Identity Management for IoT Devices](https://dataconnectors.com/events/2021/september/canada-east/)  
 *June 14th 2021 at ICANN 71 - [Challenges in DNSSEC IoT Registry](https://meetings.icann.org/en/remote71)  
 *May 20th 2021 at RIPE 82 - [Implementation of IoT SAFE using a Registry](https://ripe82.ripe.net/archives/video/598/)  
 *May 13th 2021 at Canada West Virtual Cybersecurity Summit - [Keeping IoT Devices Secure](https://dataconnectors.com/events/2021/may/canada-west/)
@@ -45,6 +45,7 @@ CIRA has presented the Secure IoT Registry at these event
 
 ## **Publications  
 CIRA publications online  
+*October 2021 [IEEE](https://ieeexplore.ieee.org/document/9606833) 
 *January 2021 [CIRA Blog](https://www.cira.ca/blog/state-internet/putting-ciras-secure-iot-registry-work-l-sparks-medtech-accelerator)  
 *December 2020 [CircleID](http://www.circleid.com/posts/20201204-innovative-framework-to-help-iot-industry-scale-into-billions/)  
 
